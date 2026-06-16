@@ -1,3 +1,10 @@
+---
+layout: default
+title: Privacy Policy — Hadaya
+description: How Hadaya handles your data — privacy policy in English and Arabic.
+permalink: /privacy/
+---
+
 # Privacy Policy / سياسة الخصوصية
 
 **Last Updated / آخر تحديث:** June 7, 2026

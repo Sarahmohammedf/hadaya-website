@@ -1,0 +1,27 @@
+title: Hadaya — هدايا
+description: Share your wishlists with family and friends. شارك قوائم أمنياتك مع العائلة والأصدقاء.
+url: https://sarahmohammedf.github.io
+baseurl: /hadaya-website
+
+# Branding
+brand_color: "#7C3AED"
+brand_color_light: "#A78BFA"
+support_email: support@hadaya.app
+privacy_email: privacy@hadaya.app
+
+# Jekyll
+markdown: kramdown
+permalink: pretty
+theme: null
+plugins: []
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

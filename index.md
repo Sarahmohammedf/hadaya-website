@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Hadaya - هدايا
+title: Hadaya — هدايا
+description: Share your wishlists with family and friends.
 ---
 
-# Hadaya | هدايا
+# Hadaya — هدايا
 
 **Share your wishlists with family and friends.**
-
 **شارك قوائم أمنياتك مع العائلة والأصدقاء.**
 
 ---
@@ -17,29 +17,19 @@ Hadaya is a beautifully designed iOS app that lets you create and share gift wis
 
 ## عن التطبيق
 
-هدايا تطبيق iOS مصمم بعناية يتيح لك إنشاء ومشاركة قوائم الأمنيات مع أحبائك. سواء كان عيد ميلاد أو زفاف أو تخرج أو أي مناسبة خاصة — هدايا يجعل تقديم الهدايا سهلاً ومدروساً وممتعاً.
+هدايا تطبيق iOS مصمم بعناية يتيح لكِ إنشاء ومشاركة قوائم الأمنيات مع أحبائك. سواء كان عيد ميلاد أو زفاف أو تخرج أو أي مناسبة خاصة — هدايا يجعل تقديم الهدايا سهلاً ومدروساً وممتعاً.
 
 ---
 
-## 📚 Resources | الموارد
+## 📚 Resources / الموارد
 
-- [🔒 Privacy Policy](./privacy.html)
-- [📄 Terms of Service](./terms.html)
-- [💬 Support](./support.html)
-
-### بالعربية
-
-- [🔒 سياسة الخصوصية](./privacy.html)
-- [📄 شروط الخدمة](./terms.html)
-- [💬 الدعم](./support.html)
+- [💬 Support / الدعم](./support)
+- [🔒 Privacy Policy / سياسة الخصوصية](./privacy)
+- [📄 Terms of Service / شروط الخدمة](./terms)
 
 ---
 
-## 📧 Contact | تواصل معنا
+## 📧 Contact / تواصل معنا
 
-- **Support | الدعم:** support@hadaya.app
-- **Privacy | الخصوصية:** privacy@hadaya.app
-
----
-
-© 2026 Hadaya. All rights reserved. | جميع الحقوق محفوظة.
+- **Support / الدعم:** [support@hadaya.app](mailto:support@hadaya.app)
+- **Privacy / الخصوصية:** [privacy@hadaya.app](mailto:privacy@hadaya.app)

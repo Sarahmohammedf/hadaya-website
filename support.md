@@ -1,3 +1,10 @@
+---
+layout: default
+title: Support — Hadaya
+description: Help, FAQs, and contact information for the Hadaya app.
+permalink: /support/
+---
+
 # Support / الدعم
 
 **Last Updated / آخر تحديث:** June 7, 2026
